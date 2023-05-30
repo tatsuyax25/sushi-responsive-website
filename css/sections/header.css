@@ -15,5 +15,13 @@
   position: absolute;
   inset: 0;
   width: 100%;
+
   background-color: var(--primary-color);
+  z-index: 1;
+}
+
+.header__logo h4 {
+  padding-left: 30px;
+
+  color: #fff;
 }
