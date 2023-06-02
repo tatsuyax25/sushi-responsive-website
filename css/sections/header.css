@@ -23,13 +23,18 @@
 .header__logo h4 {
   padding-left: 30px;
 
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family: var(--playfair-display);
   color: #fff;
+  opacity: 0.8;
 }
 
 .header__menu, .header__menu-mobile {
   padding: 20px;
 
-  flex: 1.235;
+  flex: 1.236;
   display: flex;
   justify-content: flex-end;
   align-items: center;
